@@ -1,0 +1,32 @@
+* {
+  margin: 0px;
+}
+
+body {
+  background-color: grey;
+}
+
+.post {
+  background-color: black;
+  width: 700px;
+  border-left: red solid 10px;
+  margin: 50px auto 0px;
+}
+
+.post h2 {
+  color: white;
+  font-family: Impact;
+  font-size: 38px;
+  text-align: center;
+}
+
+.post img {
+  width: 700px;
+  height: 300px;
+}
+
+.post p {
+  color: white;
+  font-family: Raleway;
+  font-size: 16px;
+}
